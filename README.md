@@ -1,5 +1,7 @@
 ## Hey there, I am Olavo 👋
 
+<img align="right" width="200" alt="sasa" src="https://github.com/olavoparno/olavoparno/raw/master/octocat.png" />
+
 ### I am a Front-End Engineer seeing the world from different perspectives
 
 - 🔭 I try to do my best building applications with React and sometimes I give a shot on NodeJS as well
