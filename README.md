@@ -14,13 +14,19 @@
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /><img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" /><img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><img align="left" alt="mongo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<br/><br/><br/><br/>
-<img align="center" alt="olavoparno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true" />
 
-### Starred package
+<a href="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true">
+  <img align="center" alt="olavoparno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=olavoparno&layout=compact">
+  <img align="center" alt="olavoparno's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavoparno&layout=compact" />
+</a>
 
-<a href="https://www.npmjs.com/package/istanbul-badges-readme"><img src="https://img.shields.io/badge/ISTANBUL_BADGES_README--_.svg?style=social&logo=npm" alt="Istanbul Badges Readme"></a>
+### Starred packages
 
-### Find me on
-
-<a href="https://www.linkedin.com/in/olavoparno"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://github.com/olavoparno/jest-badges-readme">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=jest-badges-readme" />
+</a>
+<a href="https://github.com/olavoparno/istanbul-badges-readme">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=istanbul-badges-readme" />
+</a>
