@@ -27,9 +27,18 @@
 
 ### Starred packages
 
-<a href="https://github.com/olavoparno/jest-badges-readme">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=jest-badges-readme" />
-</a>
 <a href="https://github.com/olavoparno/istanbul-badges-readme">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=istanbul-badges-readme" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=istanbul-badges-readme" />
 </a>
+<a href="https://github.com/olavoparno/translate-serverless-now">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=translate-serverless-now" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/olavoparno/jest-badges-readme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=jest-badges-readme" />
+</a>
+
+
