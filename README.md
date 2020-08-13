@@ -37,8 +37,8 @@
 <br />
 <br />
 
-<a href="https://github.com/olavoparno/react-use-script">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-script" />
+<a href="https://github.com/olavoparno/react-use-scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-scripts" />
 </a>
 <a href="https://github.com/olavoparno/react-use-hotjar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-hotjar" />
