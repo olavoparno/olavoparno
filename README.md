@@ -1,4 +1,4 @@
-<img align="right" alt="trraffic" src="https://github-traffic-badge.vercel.app/api/badger" />
+<img align="right" alt="traffic" src="https://pv-badge.herokuapp.com/total.svg?repo_id=olavoparno-olavoparno"/>
 
 ## Hey there, I am Olavo 👋
 
