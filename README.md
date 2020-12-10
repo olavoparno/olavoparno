@@ -20,35 +20,35 @@
 <br />
 <br />
 
-<a href="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true">
-  <img align="center" alt="olavoparno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true&theme=slateorange">
+  <img align="center" alt="olavoparno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true&theme=slateorange" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=olavoparno&layout=compact">
-  <img align="center" alt="olavoparno's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavoparno&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=olavoparno&layout=compact&theme=slateorange">
+  <img align="center" alt="olavoparno's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavoparno&layout=compact&theme=slateorange" />
 </a>
 
 ### Starred packages
 
 <a href="https://github.com/olavoparno/istanbul-badges-readme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=istanbul-badges-readme" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=istanbul-badges-readme&theme=slateorange" />
 </a>
 <a href="https://github.com/olavoparno/translate-serverless-now">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=translate-serverless-now" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=translate-serverless-now&theme=slateorange" />
 </a>
 
 <br />
 <br />
 
 <a href="https://github.com/olavoparno/react-use-scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-scripts" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-scripts&theme=slateorange" />
 </a>
 <a href="https://github.com/olavoparno/react-use-hotjar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-hotjar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-hotjar&theme=slateorange" />
 </a>
 
 ### Archived packages
 
 <a href="https://github.com/olavoparno/jest-badges-readme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=jest-badges-readme" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=jest-badges-readme&theme=slateorange" />
 </a>
 
