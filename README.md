@@ -23,9 +23,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true&theme=slateorange">
   <img align="center" alt="olavoparno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true&theme=slateorange" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=olavoparno&layout=compact&theme=slateorange">
-  <img align="center" alt="olavoparno's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olavoparno&layout=compact&theme=slateorange" />
-</a>
 
 ### Starred packages
 
