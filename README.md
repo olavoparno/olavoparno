@@ -29,15 +29,15 @@
 <a href="https://github.com/olavoparno/istanbul-badges-readme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=istanbul-badges-readme&theme=slateorange" />
 </a>
-<a href="https://github.com/olavoparno/react-use-presentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-presentation&theme=slateorange" />
+<a href="https://github.com/olavoparno/react-use-downloader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-downloader&theme=slateorange" />
 </a>
 
 <br />
 <br />
 
-<a href="https://github.com/olavoparno/react-use-scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-scripts&theme=slateorange" />
+<a href="https://github.com/olavoparno/react-use-presentation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-presentation&theme=slateorange" />
 </a>
 <a href="https://github.com/olavoparno/react-use-hotjar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-hotjar&theme=slateorange" />
@@ -46,11 +46,11 @@
 <br />
 <br />
 
+<a href="https://github.com/olavoparno/react-use-scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-scripts&theme=slateorange" />
+</a>
 <a href="https://github.com/olavoparno/translate-serverless-now">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=translate-serverless-now&theme=slateorange" />
-</a>
-<a href="https://github.com/olavoparno/react-use-downloader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-downloader&theme=slateorange" />
 </a>
 
 ### Archived packages
