@@ -2,7 +2,7 @@
 
 ## Hey there, I am Olavo 👋
 
-<img align="right" width="200" alt="octocat" src="https://github.com/olavoparno/olavoparno/raw/master/octocat.png" />
+<img align="right" width="200" alt="octocat" src="https://github.com/olavoparno/olavoparno/raw/main/octocat.png" />
 
 ### I am a Front-End Engineer seeing the world from different perspectives
 
