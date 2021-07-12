@@ -13,18 +13,27 @@
 - 📝 Special care to documenting and versioning of code in general, from the very README and CHANGELOG to release processess
 - ⚡ Curiosities: I always take into consideration (in terms of understanding) people's motivation for their actions, regardless of the outcome and I am also a Japanese manga fan (mostly horror stories such as Junji Ito)
 
+
 ### Languages and Tools
-<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /><img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" /><img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><img align="left" alt="mongo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<a target="_blank" href="https://github.com/topics/javascript"><img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+
+<a target="_blank" href="https://github.com/facebook/react"><img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></a>
+
+<a target="_blank" href="https://github.com/topics/nodejs"><img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+
+<a target="_blank" href="https://github.com/styled-components/styled-components"><img align="left" alt="styled-components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" /></a>
+
+<a target="_blank" href="https://github.com/mui-org/material-ui"><img align="left" alt="material-ui" width="26px" src="https://images.opencollective.com/material-ui/381e99c/logo/256.png" /></a>
+
+<a target="_blank" href="https://github.com/pmndrs/zustand"><img align="left" alt="zustand" width="26px" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" /></a>
+
 
 <br />
 <br />
 
-<a href="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true&theme=slateorange">
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true&theme=slateorange">
   <img align="center" alt="olavoparno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olavoparno&show_icons=true&hide_border=true&count_private=true&theme=slateorange" />
-</a>
+</a> -->
 
 ### Starred packages
 
