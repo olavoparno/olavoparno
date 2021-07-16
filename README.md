@@ -60,8 +60,8 @@
 <a href="https://github.com/olavoparno/react-use-scripts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-scripts&theme=slateorange" />
 </a>
-<a href="https://github.com/olavoparno/translate-serverless-now">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=translate-serverless-now&theme=slateorange" />
+<a href="https://github.com/olavoparno/translate-serverless-vercel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=translate-serverless-vercel&theme=slateorange" />
 </a>
 
 ### Archived packages
