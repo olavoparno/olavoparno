@@ -21,13 +21,6 @@
 
 <a target="_blank" href="https://github.com/topics/nodejs"><img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
 
-<a target="_blank" href="https://github.com/styled-components/styled-components"><img align="left" alt="styled-components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" /></a>
-
-<a target="_blank" href="https://github.com/mui-org/material-ui"><img align="left" alt="material-ui" width="26px" src="https://images.opencollective.com/material-ui/381e99c/logo/256.png" /></a>
-
-<a target="_blank" href="https://github.com/pmndrs/zustand"><img align="left" alt="zustand" width="26px" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" /></a>
-
-
 <br />
 <br />
 
@@ -47,11 +40,11 @@
 <br />
 <br />
 
-<a href="https://github.com/olavoparno/react-use-presentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-presentation&theme=slateorange" />
-</a>
 <a href="https://github.com/olavoparno/react-use-hotjar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-hotjar&theme=slateorange" />
+</a>
+<a href="https://github.com/olavoparno/react-use-presentation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-presentation&theme=slateorange" />
 </a>
 
 <br />
@@ -62,6 +55,13 @@
 </a>
 <a href="https://github.com/olavoparno/translate-serverless-vercel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=translate-serverless-vercel&theme=slateorange" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/olavoparno/should-i-deploy-today">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=should-i-deploy-today&theme=slateorange" />
 </a>
 
 ### Archived packages
