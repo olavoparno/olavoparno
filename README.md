@@ -1,5 +1,3 @@
-<img align="right" alt="traffic" src="https://pv-badge.herokuapp.com/total.svg?repo_id=olavoparno-olavoparno"/>
-
 ## Hey there, I am Olavo 👋
 
 <!-- YOUR_COMMENT_HERE
