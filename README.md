@@ -35,8 +35,8 @@
 <a href="https://github.com/olavoparno/react-use-scripts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-scripts&theme=slateorange" />
 </a>
-<a href="https://github.com/olavoparno/react-use-rapid7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=react-use-rapid7&theme=slateorange" />
+<a href="https://github.com/olavoparno/next-routes-readme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olavoparno&repo=next-routes-readme&theme=slateorange" />
 </a>
 
 <br />
